@@ -1,0 +1,29 @@
+{
+  "signUp": {
+    "title": "साइन अप करें",
+    "description": "कृपया एक खाता बनाने के लिए इस फॉर्म को भरें!"
+  },
+  "formLabels": {
+    "name": "नाम",
+    "email": "ईमेल",
+    "phoneNumber": "फ़ोन नंबर",
+    "password": "पासवर्ड",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "termsAndConditions": "मैं शर्तों और नियमों को स्वीकार करता हूँ।"
+  },
+  "placeholders": {
+    "name": "अपना नाम दर्ज करें",
+    "email": "अपना ईमेल दर्ज करें",
+    "phoneNumber": "अपना फ़ोन नंबर दर्ज करें",
+    "password": "अपना पासवर्ड दर्ज करें",
+    "confirmPassword": "अपना पासवर्ड पुष्टि करें"
+  },
+  "buttons": {
+    "signUp": "साइन अप करें",
+    "loading": "लोड हो रहा है..."
+  },
+  "gender": {
+    "female": "महिला",
+    "male": "पुरुष"
+  }
+}

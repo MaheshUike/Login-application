@@ -1,0 +1,29 @@
+{
+    "signUp": {
+      "title": "Sign Up",
+      "description": "Please fill this form to create an account!"
+    },
+    "formLabels": {
+      "name": "Name",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "termsAndConditions": "I accept the terms and conditions."
+    },
+    "placeholders": {
+      "name": "Enter your name",
+      "email": "Enter your email",
+      "phoneNumber": "Enter your phone number",
+      "password": "Enter your password",
+      "confirmPassword": "Confirm your password"
+    },
+    "buttons": {
+      "signUp": "Sign Up",
+      "loading": "Loading..."
+    },
+    "gender": {
+      "female": "Female",
+      "male": "Male"
+    }
+  }

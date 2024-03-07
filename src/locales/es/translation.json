@@ -1,0 +1,29 @@
+{
+  "signUp": {
+    "title": "Registrarse",
+    "description": "¡Por favor, rellene este formulario para crear una cuenta!"
+  },
+  "formLabels": {
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "phoneNumber": "Número de teléfono",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar contraseña",
+    "termsAndConditions": "Acepto los términos y condiciones."
+  },
+  "placeholders": {
+    "name": "Introduce tu nombre",
+    "email": "Introduce tu correo electrónico",
+    "phoneNumber": "Introduce tu número de teléfono",
+    "password": "Introduce tu contraseña",
+    "confirmPassword": "Confirma tu contraseña"
+  },
+  "buttons": {
+    "signUp": "Registrarse",
+    "loading": "Cargando..."
+  },
+  "gender": {
+    "female": "Femenino",
+    "male": "Masculino"
+  }
+}
